@@ -1,3 +1,3 @@
-export default function sample(x) {
+export default function sample() {
   return 'Hello World';
 }
